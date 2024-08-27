@@ -4,7 +4,7 @@ Freshly minted BSc Computer Science graduate from Brunel University, eager to le
 <br>Technical Skills<be>
 - Programming: Java, Python, R, HTML, CSS, JavaScript<br>
 - Data Management: SQL, NoSQL<br>Data Analysis: Excel, Microsoft Office 365<br>
-- Cybersecurity: Wireshark, Packet Analysis, Bash Scripting, PowerShell Scripting, Kali Linux, Metasploit, Hashcat, Burp Suite, Vulnerabilities and Security, Risk Management, Incident Response, Monitoring and Logs.
+- Cybersecurity: Wireshark, Packet Analysis, Bash Scripting, PowerShell Scripting, Kali Linux, Metasploit, Hashcat, Burp Suite, Vulnerabilities and Security, Risk Management, Incident Response, Monitoring and Logs. <br> 
 <br>Soft Skills<br>
 - Leadership: Demonstrated leadership abilities in various roles, including Student Trustee and Senior PAL Leader role. <br>
 - Problem-Solving: Proven ability to identify and resolve complex technical and interpersonal challenges.<br>
