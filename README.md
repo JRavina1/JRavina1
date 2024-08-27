@@ -12,7 +12,7 @@ Freshly minted BSc Computer Science graduate from Brunel University, eager to le
 - Teamwork: Collaborated effectively in diverse teams to achieve shared goals.<br>
 - Time Management: Prioritized tasks and managed deadlines efficiently.<br>
 - Project Management: Successfully planned, executed, and delivered projects within scope and budget.<br>
-- Communication: Communicated effectively with technical and non-technical stakeholders.<br>
+- Communication: Communicated effectively with technical and non-technical stakeholders.
 
 <br>Ready to:<br><br>Dive deep into challenging projects.<br>Learn from experienced developers.<br>Contribute fresh ideas and perspectives.<br>
 
