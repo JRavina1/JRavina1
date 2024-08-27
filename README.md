@@ -1,11 +1,10 @@
 # 💫 About Me:
-Freshly minted BSc Computer Science graduate from Brunel University, eager to learn and grow alongside a creative and engaged company. I'm passionate about applying my skills to real-world projects that solve problems and benefit society.<br>I am currently exploring the exciting realms of AI, Data Science, Robotics, and Cybersecurity. I'm brimming with new project ideas and actively seeking opportunities to collaborate and contribute.
+Freshly minted BSc Computer Science graduate from Brunel University, eager to learn and grow alongside a creative and engaged company. I'm passionate about applying my skills to real-world projects that solve problems and benefit society.<be><be> I am currently exploring the exciting realms of AI, Data Science, Robotics, and Cybersecurity. I'm brimming with new project ideas and actively seeking opportunities to collaborate and contribute.
 
 <br>Technical Skills<be>
 - Programming: Java, Python, R, HTML, CSS, JavaScript<br>
 - Data Management: SQL, NoSQL<br>Data Analysis: Excel, Microsoft Office 365<br>
 - Cybersecurity: Wireshark, Packet Analysis, Bash Scripting, PowerShell Scripting, Kali Linux, Metasploit, Hashcat, Burp Suite, Vulnerabilities and Security, Risk Management, Incident Response, Monitoring and Logs.
-
 <br>Soft Skills<br>
 - Leadership: Demonstrated leadership abilities in various roles, including Student Trustee and Senior PAL Leader role. <br>
 - Problem-Solving: Proven ability to identify and resolve complex technical and interpersonal challenges.<br>
