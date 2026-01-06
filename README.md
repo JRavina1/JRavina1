@@ -20,13 +20,20 @@ Analytical Computer Science graduate specialising in data analysis, data enginee
 ## 🛠 Technical Skills
 
 ### **Languages & Tools**
-**Python • Java • SQL • R • NoSQL • PostgreSQL** 
+**Python • Java • SQL • R • NoSQL • PostgreSQL • Git** 
 
 ### **Data & Cloud**
-**Pandas • NumPy • Scikit-Learn • BigQuery • SPSS • Excel sheet • GitHub Pages**
+**Pandas • NumPy • Scikit-Learn • ETL processing • Data cleaning • CI/CD Pipeline • GitHub Pages**
+
+### **Data Tools**
+**Google BigQuery •  MongoDB • SQLite, MySQL • Excel**
+
+### **Data Analyst and Reporting**
+**PowerBI • Looker Studio • Google Analytics  • Tableau • Data Governance and GDPR** 
 
 ### **Web & Dev**
 **HTML • CSS • React • Basic JavaScript • Bootstrap**
+
 ### **Cyber Security skills & Tool**
 **Wireshark • Packet Analysis • Bash • Azure •PowerShell • Kali Linux • Hashcat/Metasploit • Burp Suite • Incident response • Monitoring & Logs • Network scanning** 
 
