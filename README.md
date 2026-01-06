@@ -1,5 +1,5 @@
 # 💫 About Me:
-Freshly minted BSc Computer Science graduate from Brunel University, eager to learn and grow alongside a creative and engaged company. I'm passionate about applying my skills to real-world projects that solve problems and benefit society.<be><be> I am currently exploring the exciting realms of AI, Data Science, Robotics, and Cybersecurity. I'm brimming with new project ideas and actively seeking opportunities to collaborate and contribute.
+Analytical Computer Science graduate specialising in data analysis, data engineering and digital projects, using Python, SQL and data visualisation to turn complex data into clear, reliable insights. Experienced with sensitive data, data governance and security principles, and actively building secure, high‑quality solutions through academic, project and industry experience. Open to graduate and junior roles in data and digital across the UK.
 
 <br>Technical Skills<be>
 - Programming: Java, Python, R, HTML, CSS, JavaScript<br>
