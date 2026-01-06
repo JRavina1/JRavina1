@@ -50,6 +50,5 @@ Currently building a real-world Modern Data Warehouse using SQL.
 - 🌐 LinkedIn: https://linkedin.com/in/ravina-jignesh  
 - 📁 Portfolio & Code: https://github.com/JRavina1
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 Thanks for visiting! 🙌
