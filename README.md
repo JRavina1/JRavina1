@@ -34,7 +34,7 @@ Analytical Computer Science graduate specialising in data analysis, data enginee
 ### **Web & Dev**
 **HTML • CSS • React • Basic JavaScript • Bootstrap**
 
-### **Cyber Security skills & Tool**
+### **Cyber Security & Tool**
 ***Wireshark • Packet Analysis • Bash • Azure •PowerShell • Kali Linux • Hashcat/Metasploit • Burp Suite • Incident response • Monitoring & Logs • Network scanning***
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
