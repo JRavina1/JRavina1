@@ -1,6 +1,7 @@
 # 👋 Hey there, I’m Ravina
 
 I’m a **Data & Software Engineer** based in **Greater London**, with a BSc in Computer Science (Brunel University London) and an Applied Cybersecurity Bootcamp (University of Birmingham).  
+
 I’m passionate about building practical solutions using data, machine learning and reliable software engineering.
 
 I’m actively seeking **graduate roles or internships** in:
